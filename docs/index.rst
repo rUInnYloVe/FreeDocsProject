@@ -20,3 +20,7 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+Test build
+==========
+
+   Build on 0.0.0.0:8000
